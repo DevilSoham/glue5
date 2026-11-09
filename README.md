@@ -66,7 +66,7 @@
 |---|---|---|---|
 | **iPhone, iPad** | ✅ Playable | Metal · MetalFX | iOS 16.4 or later. Tested on iPhone 16 Pro and iPhone 13 Pro. |
 | **Mac** | ✅ Playable | Metal · MetalFX | macOS 14 or later, Apple silicon. |
-| Android | 🧪 Early | Vulkan 1.3 | Tested on Pixel 8a, OPPO K13 5G.|
+| Android | 🧪 Early | Vulkan 1.3 | Tested on Pixel 8A (GPU: Mali-G715 MP7), (Processor: Google Tensor G3) | OPPO K13 5G (GPU: Qualcomm Adreno 810), (Processor: Qualcomm Snapdragon 6 Gen 4).|
 | **Windows** | 🧪 Early | Vulkan | Builds; little tested. |
 | **Linux** | 🧪 Early | Vulkan | AppImage, X11 and Wayland; little tested. |
 | **Apple TV** | 🧪 Preview | Metal | Streams the game's files from a computer. Run in the simulator so far. |
